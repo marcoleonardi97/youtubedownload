@@ -1,4 +1,4 @@
-from pytube import YouTube
+from pytubefix import YouTube
 import tkinter as tk
 from tkinter import ttk, filedialog
 import sv_ttk
